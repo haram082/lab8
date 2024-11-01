@@ -1,6 +1,3 @@
-<<<<<<< HEAD
 Step 1: created by Haram on 11/1 at 2:13
 Step 4:  line added by NAME on 11/1 at 2:22
-
 Step 3: added by Anbo on 11/1 at 2:19PM
->>>>>>> 0e32ba6f524417fab300ba9d48e4866348374e1b
